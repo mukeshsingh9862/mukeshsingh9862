@@ -4,8 +4,11 @@
 - 🌱 I'm currently learning Data Structures and Algorithms to enhance problem-solving skills
 - 👯 I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me **mukeshsingh9862@gmail.com**
+- That's my portfolio: **[Mukesh Singh - Portfolio](https://msingh-portfolio.vercel.app/)**
+
 &nbsp;
 &nbsp;
+
 # 💻 **Tech Stack:**
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) &nbsp;   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  &nbsp;  ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) &nbsp; 
 
