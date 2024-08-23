@@ -4,7 +4,8 @@
 - 🌱 I'm currently learning Data Structures and Algorithms to enhance problem-solving skills
 - 👯 I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me **mukeshsingh9862@gmail.com**
-- That's my portfolio: **[Mukesh Singh - Portfolio](https://msingh-portfolio.vercel.app/)**
+- 🔗 Check out my digital showcase: **[That's My Portfolio](https://msingh-portfolio.vercel.app/)**
+- 🔍 Explore my journey and achievements:  **[Download My Resume](https://drive.google.com/file/d/1DhFPFzyAOZduExd7TeW4xhlbfEsNFRTO/view?usp=sharing)** 
 
 &nbsp;
 &nbsp;
