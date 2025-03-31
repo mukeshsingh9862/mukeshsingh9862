@@ -1,11 +1,15 @@
 
 # 💫 About Me:
-- 🔭 I’m currently working on Mern Stack and Blockchain Contract Implementation
-- 🌱 I'm currently learning Data Structures and Algorithms to enhance problem-solving skills
-- 👯 I’m looking to collaborate on Open Source Projects
+
+- 🔭 I’m currently working on **MERN Stack and Cloud Computing**
+
+- 🌱 I’m currently learning **Data Structures and Amazon Web Services**
+
+- 👨‍💻 Check out my digital showcase: **[That's My Portfolio](https://msingh-portfolio.vercel.app/)**
+
+- 💬 Ask me about **Node.js, React, NextJS, MySQL, Postgresql, MongoDB Etc.**
+
 - 📫 How to reach me **mukeshsingh9862@gmail.com**
-- 🔗 Check out my digital showcase: **[That's My Portfolio](https://msingh-portfolio.vercel.app/)**
-- 🔍 Explore my journey and achievements:  **[Download My Resume](https://drive.google.com/file/d/1DhFPFzyAOZduExd7TeW4xhlbfEsNFRTO/view?usp=sharing)** 
 
 &nbsp;
 &nbsp;
