@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Amazon Web Services**
 
-- 👨‍💻 Check out my digital showcase: **[That's My Portfolio](https://msingh-portfolio.vercel.app/)**
+- 👨‍💻 Check out my digital showcase: **[https://msingh-portfolio.vercel.app/](https://msingh-portfolio.vercel.app/)**
 
 - 💬 Ask me about **Node.js, React, NextJS, MySQL, Postgresql, MongoDB Etc.**
 
